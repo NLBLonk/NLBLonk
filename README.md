@@ -22,5 +22,5 @@
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NLBLonk&theme=tokyonight" alt="nlblonk" /></p>
 
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NLBLonk&theme=tokyonight" alt="nlblonk" /></p>
+<p>&nbsp;<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NLBLonk&theme=tokyonight" alt="nlblonk" /></p>
 
